@@ -8,8 +8,8 @@ La aplicación estará desarrollada en Python aunque el análisis previo se real
 
 Las principales operaciones que necesitaremos gestionar serán:
   <ol>
-    <li>**Registro de cliente.** Se pedirán sus datos personales y de facturación.</li>
-    <li>**Selección de productos.** Se permitirá añadir productos a la lista de deseos.</li>
-    <li>**Compra y pago de los productos solicitados.** Se enviará al cliente la factura en PDF a su correo electrónico.</li>
-    <li>**Seguimiento.** Se enviará por SMS al teléfono móvil y al correo del cliente el código de seguimiento de su pedido.</li>
+    <li><b>Registro de cliente.</b> Se pedirán sus datos personales y de facturación.</li>
+    <li><b>Selección de productos.</b> Se permitirá añadir productos a la lista de deseos.</li>
+    <li><b>Compra y pago de los productos solicitados.</b> Se enviará al cliente la factura en PDF a su correo electrónico.</li>
+    <li><b>Seguimiento.</b> Se enviará por SMS al teléfono móvil y al correo del cliente el código de seguimiento de su pedido.</li>
   </ol>
