@@ -1,6 +1,6 @@
 # Hito_Individual_Programacion
 
-A nuestro equipo de desarrollo de software nos ha llegado la petición de un cliente para el diseño y desarrollo de una aplicación de gestión de pedidos.
+Diseño y desarrollo de una aplicación de gestión de pedidos.
 
 El cliente necesita una aplicación en donde un posible cliente se registre en la aplicación para realizar un pedido de los productos que están disponibles en la tienda online.
 Los clientes pueden ser nacionales o de fuera de España. Esto conlleva un reto añadido, puesto que el cálculo de sus pedidos se deberán ajustar a la legislación vigente en cada territorio
